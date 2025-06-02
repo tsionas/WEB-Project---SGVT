@@ -1,9 +1,12 @@
 # Simple Geometry Visibility Tool (SGVT)
 Produced by UCLouvain, BE under the Wind Energy for Brussels (WEB) Project, co-financed by Innoviris.
 ### Overview
-The **Simple Geometry Visibility Tool (SGVT)** was developed within ArcGIS Pro using **Model Builder** and is designed for **parametrized visibility analysis (VA)** of multiple **Small Urban Objects (SUOs)** from various **observation points (OPs)**. 
+The **Simple Geometry Visibility Tool (SGVT)** was developed within ArcGIS Pro using **Model Builder** and is designed for **parametrized visibility analysis (VA)** of multiple **Small Urban Objects (SUOs)** from multiple **observation points (OPs)**. 
 
 Using **line-of-sight (LOS) calculations**, SGVT determines whether each SUO is visible from each OP. The tool provides both **analytical outputs** and **descriptive statistics** characterizing visibility relations across the study area.
+
+### Motivation
+Cities are composed not only of large structures such as buildings but also of Small Urban Objects (SUOs)—including street furniture, signage, and small-scale monuments—which, despite their modest size, contribute significantly to the visual perception of the urban landscape. **Visibility Analysis (VA)** has traditionally focused on large-scale features or the skyline, typically relying on geospatial techniques and coarse-resolution data in 2.5D formats. However, due to their smaller scale and sensitivity to vertical occlusions, SUOs require more precise, true-3D analytical methods. 
 
 ### Features
 - **Automated visibility analysis** using **LOS** calculations
