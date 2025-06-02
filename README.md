@@ -1,5 +1,5 @@
 # Simple Geometry Visibility Tool (SGVT)
-
+Produced by UCLouvain, BE under the Wind Energy for Brussels (WEB) Project, co-financed by Innoviris.
 ### Overview
 The **Simple Geometry Visibility Tool (SGVT)** was developed within ArcGIS Pro using **Model Builder** and is designed for **parametrized visibility analysis (VA)** of multiple **Small Urban Objects (SUOs)** from various **observation points (OPs)**. 
 
